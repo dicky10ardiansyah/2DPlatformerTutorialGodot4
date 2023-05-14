@@ -1,0 +1,9 @@
+2a60927148abd1d33b818b535e306557
+::res://::1684037595
+icon.svg::CompressedTexture2D::213630049066142837::1683944337::1683944404::1::::<><>::
+level_1.gd::GDScript::-1::1683959208::0::1::::<>Node2D<>::
+level_1.tscn::PackedScene::3506190634967067059::1683966570::0::1::::<><>::res://level_1.gd<>uid://bb7derxy1c4ji<>res://Player.gd
+main_menu.gd::GDScript::-1::1683946930::0::1::::<>Node2D<>::
+main_menu.tscn::PackedScene::965874854680218069::1683961307::0::1::::<><>::res://main_menu.gd
+monochrome_tilemap_transparent_packed.png::CompressedTexture2D::2522859839167726622::1683959724::1683960959::1::::<><>::
+Player.gd::GDScript::-1::1683966021::0::1::::<>CharacterBody2D<>::
